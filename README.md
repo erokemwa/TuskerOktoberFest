@@ -1,7 +1,6 @@
 # Tusker Oktober Fest
 Tusker Oktober FEST: Twitter Sentiment and Engagement Analysis.
 
-
 The purpose of this project is to demonstrate data scraping and sentiment analysis using Twitter's API and Tweepy.
 
 # Key Takeaways
